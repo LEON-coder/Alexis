@@ -1,0 +1,720 @@
+/* font-family: 'Poppins', sans-serif;
+*/
+
+
+* {
+	padding: 0;
+	margin:0;
+}
+
+
+body {
+width: 100%;
+box-sizing: border-box;
+}
+
+header {
+background: url('img/Block-1/background.jpg');
+display: flex;
+height: 96px;
+z-index: 6;
+}
+
+.logo--and--nav-bar {
+    
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    height: 70px;
+}
+
+.logo {
+    padding-left: 190px;
+}
+
+.header--nav-block {
+}
+
+.header--nav {
+display: inline-flex;
+padding-right: 80px;
+}
+
+.header--nav li {
+    
+    
+    padding-right: 20px;
+    list-style: none;
+    align-items: center;
+}
+
+
+.header--nav li a {
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+.block-2--our_works {
+    background: #3f4049;
+    width: 100%;
+    display: flex;
+    height: 850px;
+    margin-top: -20px;
+    flex-direction: column;
+}
+
+.design-things {
+    font-size: 46pt;
+    font-family: 'Myriad Pro';
+    color: #ffffff;
+    width: 784px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 175px;
+    padding-bottom: 81px;
+}
+
+.our_works {
+    background-color: #fc5f45;
+    height: 25px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16pt;
+    font-family: 'Myriad pro';
+    text-decoration: none;
+    padding: 16px 60px;
+    border-radius: 55px;
+    align-self: center;
+    display: flex;
+    width: 130px;
+    color: #fedcd8;
+    margin-top: 31px;
+    margin-bottom: 31px;
+}
+
+.our_works:hover {
+    background: #feb960;
+}
+
+.advantages {
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 95px;
+}
+
+.Fixed-price-projects {
+    
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+}
+
+
+.icon-1 {
+    padding-bottom: 38px;
+}
+
+
+.Receive_on_time {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+}
+
+
+.icon-2 {
+    padding-bottom: 38px;
+}
+
+.Satisfaction_guranteed {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+}
+
+
+.icon-3 {
+    padding-bottom: 38px;
+}
+
+.Block-3_About_Us {
+    height: 1000px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.frame_555 {
+    width: 555px;
+    height: 777px;
+    padding-top: 149px;
+    padding-left: 130px;
+}
+
+.About_Us {
+    background: url('img/Block-3/Background-%20About_Us.png');
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 682px;
+    height: 580px;
+    margin-top: 210px;
+    position: relative;
+    right: 126px;
+}
+
+.Block-3--01 {
+    
+    display: flex;
+    justify-content: flex-start;
+    padding-right: 372px;
+    padding-top: 18px;
+}
+
+.About_Us-picture {
+    
+    position: absolute;
+    padding-right: 222px;
+    padding-top: 110px;
+}
+
+.Analytics {
+    
+    padding-left: 10px;
+    padding-top: 34px;
+}
+
+.line_copy_2 {
+    
+}
+
+.block_lines {
+    
+    width: 100%;
+    padding-left: 30px;
+    padding-top: 550px;
+    position: absolute;
+}
+
+.line_copy_1 {
+    
+}
+
+
+.Block-4 {
+    background-image: url('img/Block-4/Background.jpg');
+    width: 100%;
+    height: 824px;
+}
+
+
+
+.two {
+    
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+}
+
+
+.Our_focus {
+    
+    display: flex;
+    justify-content: center;
+    margin-top: -57px;
+}
+
+
+.We_understand_your {
+    
+    font-size: 18pt;
+    display: flex;
+    justify-content: center;
+    font-family: 'Myriad Pro';
+    margin-top: 22px;
+    margin-bottom: 80px;
+}
+
+
+.Block_of_advantages {
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+    flex-direction: row;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 150px;
+}
+
+.Web_Design-block {
+    
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    height: 380px;
+    width: 293px;
+}
+
+.Background_block1 {
+    
+}
+
+.Web_Design-block_pic {
+    
+    display: flex;
+    justify-content: center;
+    margin-top: -327px;
+}
+
+.Web_Design {
+    
+    padding-top: 34px;
+}
+
+.bottom_line {
+    
+    padding-top: 86px;
+    display: flex;
+}
+
+.UX_design {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 380px;
+    width: 293px;
+}
+
+.UX_design--background {
+    
+    position: relative;
+}
+
+
+.UX_design-block_pic {
+    
+    display: flex;
+    align-self: center;
+    position: absolute;
+    padding-bottom: 228px;
+}
+
+.UX_design-text {
+    
+    position: absolute;
+    display: flex;
+    margin-top: -101px;
+}
+
+.UX_design-block_pic-Analytics {
+    
+    position: absolute;
+    padding-top: 72px;
+}
+
+.Green_line {
+    
+    display: flex;
+    position: absolute;
+    padding-top: 349px;
+}
+
+
+.Photography--block {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Photography--block_background {
+    
+}
+
+.Photography--block_pic {
+    
+    display: flex;
+    position: absolute;
+    padding-top: 55px;
+}
+
+.App_development--text {
+    
+}
+
+.Photography-block_pic-Analytics {
+    
+    display: flex;
+    position: absolute;
+    padding-top: 178px;
+}
+   
+
+.violet_line {
+    
+    display: flex;
+    padding-top: 364px;
+    position: absolute;
+}
+
+
+.App_development_Block {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.App_development--block_background {
+    
+}
+
+
+.App_development--block_pic {
+    
+    display: flex;
+    align-self: center;
+    position: absolute;
+    padding-top: 57px;
+}
+
+
+.App_development--text {
+    
+    display: flex;
+    position: absolute;
+    padding-top: 132px;
+}
+
+.App_development-block_pic-Analytics {
+    
+    display: flex;
+    position: absolute;
+    padding-top: 180px;
+}
+
+.orange_line {
+    
+    display: flex;
+    position: absolute;
+    padding-top: 364px;
+}
+
+
+
+
+.block-5--explore{
+   background:#3f4049; 
+   height: 500px;
+   display: flex;
+   width: 100%;
+   flex-direction: column;
+}
+
+
+.Explore-Our-Awesomeness  {
+    
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30pt;
+    color: #ffffff;
+    padding-top: 150px;
+}
+
+.play_icon {
+    
+    display: flex;
+    justify-content: center;
+    padding-top: 35px;
+    }
+
+
+.Click_to_play {
+    
+    display: flex;
+    justify-content: center;
+    padding-top: 41px;
+    font-size: 15pt;
+    color: #f7f7f7;
+}
+
+
+.Block-6_portfolio {
+    
+    
+    display: flex;
+    width: 100%;
+    height: 1385px;
+    flex-direction: column;
+}
+
+.three {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.portfolio {
+    
+    display: flex;
+    justify-content: center;
+    font-size: 36pt;
+    font-family: 'Myriad Pro';
+    margin-top: -66px;
+}
+
+.We_understand {
+    font-size: 14pt;
+    
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.portfolio--pictures {
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.first--row {
+    
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    margin-top: 81px;
+    height: 100%;
+    padding-bottom: 23px;
+}
+
+.item--1 {
+    
+    padding-right: 21px;
+}
+
+.item {
+    
+    padding-right: 21px;
+}
+
+
+.second--row {
+    
+    display: flex;
+    justify-content: center;
+    margin-top: -77px;
+}
+
+.item-2 {
+    
+    padding-right: 21px;
+}
+
+.third--row {
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 23px;
+    margin-bottom: 150px;
+}
+
+.item-3 {
+    
+    padding-right: 21px;
+}
+
+.block-7 {
+    width: 100%;
+    height: 1226px;
+    background: #f7f7f7;
+    display: flex;
+    flex-direction: column;
+}
+
+.four {
+    
+    display: flex;
+    justify-content: center;
+    padding-top: 6px;
+}
+
+.Our_Team {
+    
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    margin-top: -60px;
+}
+
+.We_understand_your_requirement {
+    
+    align-self: center;
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+.personality {
+    
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+.Michael_Schmitt {
+    
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    background: #ffffff;
+    width: 263px;
+    height: 270px;
+}
+.Michael_Schmitt--back {
+    
+}
+
+.name {
+    
+    color: #fc5f45;
+    font-size: 18px;
+    margin-top: 18px;
+    margin-bottom: 14px;
+}
+
+.Founder {
+    
+}
+
+.Michael_Schmitt-bottom_line {
+    
+}
+
+
+.David_Krämer {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.David_Krämer--back {
+    
+}
+
+.name-2 {
+    
+    margin-top: 18px;
+    margin-bottom: 14px;
+    color: #38c695;
+    font-size: 18px;
+}
+
+.Lead_Developer {
+    
+}
+
+.David_Krämer-bottom_line {
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen (min-width: 1920px) {
+    
+
+
+* {
+	padding: 0;
+	margin:0;
+}
+
+
+body {
+width: 100%;
+box-sizing: border-box;
+}
+
+header {
+background: url('img/Block-1/background.jpg');
+display: flex;
+height: 96px;
+justify-content: space-around;
+}
+
+.logo {
+    padding-left: 390px;
+}
+
+.header--nav-block {
+    margin-left: 944px;
+}
+
+.header--nav {
+display: inline-flex;
+}
+
+
+.header--nav li a {
+    text-decoration: none;
+    list-style: none;
+}
+}
