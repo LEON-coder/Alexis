@@ -8,6 +8,7 @@
  * Inspired by Normalize.css: http://necolas.github.com/normalize.css/
  */
 
+<<<<<<< HEAD
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -28,6 +29,9 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
+=======
+
+>>>>>>> ba817e1c20145055821c02e55c8d7b5b0ae080f5
 
 /* HTML5 display definitions */
 
@@ -59,7 +63,10 @@ html {
     overflow-y: scroll;
     -webkit-text-size-adjust: 100%;
         -ms-text-size-adjust: 100%;
+<<<<<<< HEAD
         height: 100%;
+=======
+>>>>>>> ba817e1c20145055821c02e55c8d7b5b0ae080f5
 }
 
 
