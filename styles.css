@@ -249,6 +249,7 @@
                     margin-left: auto;
                     margin-right: auto;
                 }
+                .About_Us__wrapper {}
                 .Block-3--01 {
                     display: -webkit-box;
                     display: -ms-flexbox;
@@ -717,8 +718,7 @@
                     padding-right: 0;
                 }
                 .item img {
-                                
-width: 100%;
+                    width: 100%;
                 }
                 .second--row {
                     display: -webkit-box;
@@ -735,10 +735,9 @@ width: 100%;
                 .item-2 {
                     padding-right: 0;
                 }
-                 .item-2 img {
-                                 
-width: 100%;
-                 }
+                .item-2 img {
+                    width: 100%;
+                }
                 .third--row {
                     display: -webkit-box;
                     display: -ms-flexbox;
@@ -755,10 +754,9 @@ width: 100%;
                 .item-3 {
                     padding-right: 0;
                 }
-                  .item-3 img {
-                                  
-width: 100%;
-                  }
+                .item-3 img {
+                    width: 100%;
+                }
                 .block-7 {
                     width: 100%;
                     margin-top: 1380px;
@@ -1238,6 +1236,9 @@ width: 100%;
                     -ms-transform: matrix( 1.00197004735115, 0, 0, 1.00259213343851, 0, 0);
                     z-index: 405;
                     margin-top: -30px;
+                }
+                .Work-steps_blocks__wrapper {
+                    width: 1144px;
                 }
                 .Work-steps_block {
                     display: -webkit-box;
@@ -5308,8 +5309,8 @@ width: 100%;
                     width: 100%;
                 }
                 .Testimonials_picture {
-                                margin-left: auto;
-                                margin-right: auto;
+                    margin-left: auto;
+                    margin-right: auto;
                 }
                 .Testimonials_background {
                     display: -webkit-box;
@@ -9826,7 +9827,7 @@ width: 100%;
                     -webkit-box-pack: start;
                     -ms-flex-pack: start;
                     justify-content: flex-start;
-                    padding-right: 372px;
+                    padding-right: 112px;
                     padding-top: 18px;
                 }
                 .About_Us-picture {
@@ -10240,7 +10241,7 @@ width: 100%;
                     justify-content: center;
                     margin-left: auto;
                     margin-right: auto;
-                    width: 400px;
+                    width: auto;
                     margin-top: 81px;
                     height: 100%;
                     padding-bottom: 23px;
@@ -10282,7 +10283,7 @@ width: 100%;
                 }
                 .block-7 {
                     width: 100%;
-                    margin-top: 0;
+                    margin-top: 70px;
                     height: 1300px;
                     background: #f7f7f7;
                     display: -webkit-box;
@@ -10347,9 +10348,9 @@ width: 100%;
                     margin-right: auto;
                 }
                 .inside_window {
-                    width: 90%;
                     margin-left: auto;
                     margin-right: auto;
+                    width: 1170px;
                 }
                 .inside_window--info {
                     display: -webkit-box;
@@ -10803,7 +10804,7 @@ width: 100%;
                     align-items: flex-start;
                     width: 488px;
                     height: 331px;
-                    margin-left: 70px;
+                    margin-left: 0px;
                     z-index: 6;
                     margin-top: 110px;
                 }
@@ -10881,11 +10882,15 @@ width: 100%;
                 }
                 .image_background {
                     margin-top: -245px;
-                    width: auto;
+                    width: 556px;
+                    height: 300px;
                 }
                 .Research_picture {
                     margin-top: -4px;
-                    width: auto;
+                    width: 556px;
+                    height: 300px;
+                    margin-left: auto;
+                    margin-right: auto;
                 }
                 .Research_and_Planning {
                     display: -webkit-box;
@@ -10895,7 +10900,6 @@ width: 100%;
                     -webkit-box-direction: normal;
                     -ms-flex-direction: column;
                     flex-direction: column;
-                    background: #ffffff;
                     -webkit-box-pack: center;
                     -ms-flex-pack: center;
                     justify-content: center;
@@ -10904,7 +10908,8 @@ width: 100%;
                     align-items: flex-start;
                     width: 488px;
                     height: 331px;
-                    margin-left: 800px;
+                    margin-left: auto;
+                    margin-right: 0;
                     z-index: 6;
                     margin-top: -390px;
                 }
@@ -10959,7 +10964,10 @@ width: 100%;
                 }
                 .Wireframe-background {
                     margin-top: 55px;
-                    width: auto;
+                    width: 556px;
+                    height: 300px;
+                    margin-left: auto;
+                    margin-right: auto;
                 }
                 .Wireframe_and_Design {
                     display: -webkit-box;
@@ -10978,9 +10986,10 @@ width: 100%;
                     align-items: flex-start;
                     width: 488px;
                     height: 331px;
-                    margin-left: 73px;
+                    margin-left: 0;
                     z-index: 6;
                     margin-top: -384px;
+                    margin-right: auto;
                 }
                 .Wireframe_third {
                     margin-top: -60px;
@@ -11033,7 +11042,8 @@ width: 100%;
                 }
                 .Development-background {
                     margin-top: 49px;
-                    width: auto;
+                    width: 556px;
+                    height: 300px;
                 }
                 .Development_block {
                     display: -webkit-box;
@@ -11052,9 +11062,10 @@ width: 100%;
                     align-items: flex-start;
                     width: 488px;
                     height: 331px;
-                    margin-left: 804px;
+                    margin-left: auto;
                     z-index: 6;
                     margin-top: -353px;
+                    margin-right: 0;
                 }
                 .Development_block_with_four {
                     margin-top: -60px;
