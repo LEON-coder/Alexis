@@ -232,7 +232,6 @@
                     width: 100%;
                 }
                 .About_Us {
-                    background: url(img/Block-3/Background-%20About_Us.png);
                     display: -webkit-box;
                     display: -ms-flexbox;
                     display: flex;
@@ -249,7 +248,14 @@
                     margin-left: auto;
                     margin-right: auto;
                 }
-                .About_Us__wrapper {}
+                .About_Us__wrapper {
+                    display: flex;
+                    flex-direction: column;
+                    position: relative;
+                    height: 348px;
+                    margin-top: 94px;
+                    margin-left: 83px;
+                }
                 .Block-3--01 {
                     display: -webkit-box;
                     display: -ms-flexbox;
@@ -262,7 +268,6 @@
                     margin-left: -100px;
                 }
                 .About_Us-picture {
-                    position: absolute;
                     padding-right: 0px;
                     padding-top: 110px;
                     margin-left: 8px;
@@ -3504,7 +3509,6 @@
                     margin-right: auto;
                 }
                 .About_Us {
-                    background: url(img/Block-3/Background-%20About_Us.png);
                     display: -webkit-box;
                     display: -ms-flexbox;
                     display: flex;
@@ -3527,12 +3531,10 @@
                     display: flex;
                     -webkit-box-pack: start;
                     -ms-flex-pack: start;
-                    justify-content: flex-start;
                     padding-right: 372px;
                     padding-top: 18px;
                 }
                 .About_Us-picture {
-                    position: absolute;
                     padding-right: 222px;
                     padding-top: 110px;
                 }
@@ -6683,7 +6685,6 @@
                     padding-left: 0;
                 }
                 .About_Us {
-                    background: url(img/Block-3/Background-%20About_Us.png);
                     display: -webkit-box;
                     display: -ms-flexbox;
                     display: flex;
@@ -6699,18 +6700,24 @@
                     height: 580px;
                     margin-top: 0px;
                 }
+                .About_Us__wrapper {
+                    display: flex;
+                    flex-direction: column;
+                    position: relative;
+                    height: 348px;
+                    margin-top: 94px;
+                    margin-left: 83px;
+                }
                 .Block-3--01 {
                     display: -webkit-box;
                     display: -ms-flexbox;
                     display: flex;
                     -webkit-box-pack: start;
                     -ms-flex-pack: start;
-                    justify-content: flex-start;
-                    padding-right: 372px;
+                    padding-right: 0;
                     padding-top: 18px;
                 }
                 .About_Us-picture {
-                    position: absolute;
                     padding-right: 222px;
                     padding-top: 110px;
                 }
@@ -9803,22 +9810,21 @@
                     align-items: center;
                 }
                 .About_Us {
-                    background: url(img/Block-3/Background-%20About_Us.png);
                     display: -webkit-box;
                     display: -ms-flexbox;
-                    display: flex;
                     margin-right: 0;
                     -webkit-box-orient: vertical;
                     -webkit-box-direction: normal;
                     -ms-flex-direction: column;
-                    flex-direction: column;
                     -webkit-box-align: center;
                     -ms-flex-align: center;
                     align-items: center;
+                    position: relative;
                     width: 652px;
                     margin-left: -80px;
                     height: 580px;
                     margin-top: 0;
+                    background: #ffffff;
                 }
                 .Block-3--01 {
                     display: -webkit-box;
@@ -9826,20 +9832,27 @@
                     display: flex;
                     -webkit-box-pack: start;
                     -ms-flex-pack: start;
-                    justify-content: flex-start;
-                    padding-right: 112px;
-                    padding-top: 18px;
+                    padding-top: 0px;
+                    position: absolute;
+                    left: 10px;
+                    top: 10px;
+                    margin-left: 0;
+                    margin-right: 0;
                 }
                 .About_Us-picture {
-                    position: absolute;
-                    padding-right: 222px;
-                    padding-top: 110px;
+                    padding-right: 0;
+                    padding-top: 0;
+                    width: 253px;
+                    height: 43px;
+                    padding-left: 0px;
+                    margin-left: 0;
                 }
                 .About_Us-Analytics {
                     display: -webkit-box;
                     display: -ms-flexbox;
                     display: flex;
-                    margin-left: 90px;
+                    margin-left: 0;
+                    margin-top: 49px;
                     padding-right: 80px;
                     font-size: 15px;
                     font-family: "Poppins";
@@ -9870,7 +9883,7 @@
                     display: -webkit-box;
                     display: -ms-flexbox;
                     display: flex;
-                    margin-left: 29px;
+                    margin-left: 0px;
                     box-sizing: border-box;
                 }
                 .line_copy_1 {
@@ -12678,6 +12691,9 @@
                 }
                 .block_lines {
                     margin-top: 75px;
+                    margin-left: 0;
+                    position: absolute;
+                    bottom: 0;
                 }
                 .block_footer {
                     display: -webkit-box;
