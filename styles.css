@@ -3964,7 +3964,7 @@
                     padding-right: 21px;
                 }
                 .item {
-                    padding-right: 0;
+                    margin-right: 0;
                 }
                 .second--row {
                     display: -webkit-box;
@@ -3979,7 +3979,7 @@
                     margin-top: 70px;
                 }
                 .item-2 {
-                    padding-right: 21px;
+                    margin-right: 21px;
                 }
                 .third--row {
                     display: -webkit-box;
@@ -3995,7 +3995,7 @@
                     margin-right: auto;
                 }
                 .item-3 {
-                    padding-right: 21px;
+                    padding-right: 0;
                 }
                 .block-7 {
                     width: 100%;
@@ -4557,7 +4557,7 @@
                     height: 331px;
                     margin-left: 50px;
                     z-index: 6;
-                    margin-top: 50px;
+                    margin-top: 290px;
                 }
                 .Project_first {
                     position: absolute;
@@ -6651,7 +6651,7 @@
                     padding-bottom: 38px;
                 }
                 .Block-3_About_Us {
-                    height: 1000px;
+                    height: auto;
                     width: 100%;
                     display: -webkit-box;
                     display: -ms-flexbox;
@@ -6666,21 +6666,19 @@
                 }
                 .Block-3_About_Us-com {
                     display: -webkit-box;
-                    flex-direction: row;
-                    margin-top: 0;
+                    flex-direction: column;
+                    margin-top: 150px;
                     display: -ms-flexbox;
                     display: flex;
                     -webkit-box-pack: center;
                     -ms-flex-pack: center;
                     justify-content: center;
                     align-items: center;
-                    margin-left: auto;
-                    margin-right: auto;
                 }
                 .frame_555 {
                     width: 555px;
                     margin-top: 0;
-                    height: 777px;
+                    height: 500px;
                     padding-top: 0;
                     padding-left: 0;
                 }
@@ -6691,20 +6689,20 @@
                     -webkit-box-orient: vertical;
                     -webkit-box-direction: normal;
                     -ms-flex-direction: column;
-                    margin-left: -120px;
+                    position: relative;
                     flex-direction: column;
                     -webkit-box-align: center;
                     -ms-flex-align: center;
                     align-items: center;
-                    width: 652px;
+                    width: 552px;
                     height: 580px;
-                    margin-top: 0px;
+                    margin-top: 70px;
                 }
                 .About_Us__wrapper {
                     display: flex;
                     flex-direction: column;
                     position: relative;
-                    height: 348px;
+                    height: 378px;
                     margin-top: 94px;
                     margin-left: 83px;
                 }
@@ -6714,19 +6712,27 @@
                     display: flex;
                     -webkit-box-pack: start;
                     -ms-flex-pack: start;
+                    margin-left: 0;
                     padding-right: 0;
-                    padding-top: 18px;
+                    padding-top: 0;
+                    position: absolute;
+                    top: 0;
+                    left: 0;
                 }
                 .About_Us-picture {
-                    padding-right: 222px;
-                    padding-top: 110px;
+                    padding-right: 0;
+                    padding-top: 0px;
+                    width: 253px;
+                    height: 43px;
+                    margin-left: 0;
                 }
                 .About_Us-Analytics {
                     display: -webkit-box;
                     display: -ms-flexbox;
                     display: flex;
-                    margin-left: 90px;
-                    padding-right: 80px;
+                    margin-left: 0;
+                    padding-right: 0;
+                    margin-top: 49px;
                     font-size: 15px;
                     font-family: "Poppins";
                     color: rgb(97, 97, 97);
@@ -6756,7 +6762,7 @@
                     display: -webkit-box;
                     display: -ms-flexbox;
                     display: flex;
-                    margin-left: 29px;
+                    margin-left: 0;
                     box-sizing: border-box;
                 }
                 .line_copy_1 {
@@ -6765,8 +6771,8 @@
                 .Block-4 {
                     background-image: url('img/Block-4/Background.jpg');
                     width: 100%;
-                    height: 880px;
-                    margin-top: 0;
+                    height: 1120px;
+                    margin-top: 100px;
                 }
                 .two {
                     display: -webkit-box;
@@ -6775,7 +6781,8 @@
                     -webkit-box-pack: center;
                     -ms-flex-pack: center;
                     justify-content: center;
-                    padding-top: 5px;
+                    padding-top: 0;
+                    margin-top: 5px;
                 }
                 .Our_focus {
                     display: -webkit-box;
@@ -6816,10 +6823,11 @@
                     -webkit-box-direction: normal;
                     -ms-flex-direction: row;
                     flex-direction: row;
-                    width: 1000px;
+                    width: auto;
                     margin-left: auto;
                     margin-right: auto;
                     margin-bottom: 150px;
+                    flex-wrap: wrap;
                 }
                 .Web_Design-block {
                     display: -webkit-box;
@@ -7070,7 +7078,7 @@
                     display: -ms-flexbox;
                     display: flex;
                     width: 100%;
-                    height: 1385px;
+                    height: 1100px;
                     -webkit-box-orient: vertical;
                     -webkit-box-direction: normal;
                     -ms-flex-direction: column;
@@ -7127,9 +7135,9 @@
                     -webkit-box-pack: center;
                     -ms-flex-pack: center;
                     justify-content: center;
-                    margin-left: 40px;
+                    margin-left: 20px;
                     margin-right: 0;
-                    width: 400px;
+                    width: auto;
                     margin-top: 0;
                     height: 100%;
                     padding-bottom: 0;
@@ -7138,7 +7146,7 @@
                     padding-right: 21px;
                 }
                 .item {
-                    padding-right: 21px;
+                    margin-right: 21px;
                 }
                 .second--row {
                     display: -webkit-box;
@@ -7152,7 +7160,7 @@
                     margin-right: 0;
                 }
                 .item-2 {
-                    padding-right: 21px;
+                    margin-right: 21px;
                 }
                 .third--row {
                     display: -webkit-box;
@@ -7167,12 +7175,12 @@
                     margin-left: 0;
                 }
                 .item-3 {
-                    padding-right: 21px;
+                    padding-right: 0;
                 }
                 .block-7 {
                     width: 100%;
                     margin-top: 0;
-                    height: 1360px;
+                    height: 1700px;
                     background: #f7f7f7;
                     display: -webkit-box;
                     display: -ms-flexbox;
@@ -7214,7 +7222,7 @@
                     -ms-grid-row-align: center;
                     align-self: center;
                     font-size: 18px;
-                    padding-top: 10px;
+                    padding-top: 0px;
                     font-size: 18px;
                     font-family: "Poppins";
                     color: rgb(97, 97, 97);
@@ -7232,7 +7240,7 @@
                     -webkit-box-pack: center;
                     -ms-flex-pack: center;
                     justify-content: center;
-                    margin-top: 80px;
+                    margin-top: 0px;
                     margin-left: auto;
                     margin-right: auto;
                 }
@@ -7240,6 +7248,7 @@
                     width: 90%;
                     margin-left: auto;
                     margin-right: auto;
+                    margin-top: 50px;
                 }
                 .inside_window--info {
                     display: -webkit-box;
@@ -7270,7 +7279,7 @@
                     background: #ffffff;
                     width: 263px;
                     height: auto;
-                    margin-left: auto;
+                    margin-left: 0;
                 }
                 .name {
                     font-size: 18px;
@@ -7337,7 +7346,7 @@
                     display: -webkit-box;
                     display: -ms-flexbox;
                     display: flex;
-                    margin-right: 30px;
+                    margin-right: 0;
                     background: #ffffff;
                     height: auto;
                     -webkit-box-orient: vertical;
@@ -7382,7 +7391,7 @@
                     display: -ms-flexbox;
                     display: flex;
                     background: #ffffff;
-                    margin-top: 0;
+                    margin-top: 50px;
                     height: auto;
                     -webkit-box-orient: vertical;
                     -webkit-box-direction: normal;
@@ -7699,7 +7708,7 @@
                     -ms-transform: matrix( 1.00070473061229, 0, 0, 1.00140908610505, 0, 0);
                     z-index: 396;
                 }
-                .Work_Steps_Block-pictures {
+                .Work-steps_blocks__wrapper {
                     display: -webkit-box;
                     display: -ms-flexbox;
                     display: flex;
@@ -7713,12 +7722,12 @@
                     justify-content: center;
                     -webkit-box-align: start;
                     -ms-flex-align: start;
-                    align-items: flex-start;
-                    width: 488px;
-                    height: 331px;
-                    margin-left: 60px;
+                    align-items: center;
+                    width: 70%;
+                    height: 651px;
+                    margin-left: 0;
                     z-index: 6;
-                    margin-top: 50px;
+                    margin-top: 200px;
                 }
                 .Project_first {
                     position: absolute;
@@ -7772,12 +7781,15 @@
                     width: 100%;
                 }
                 .image_background {
-                    margin-top: -195px;
+                    margin-top: 45px;
                     width: 556px;
                 }
                 .Research_picture {
                     margin-top: -4px;
                     width: 556px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
                 }
                 .Research_and_Planning {
                     display: -webkit-box;
@@ -7796,9 +7808,9 @@
                     align-items: flex-start;
                     width: 488px;
                     height: 331px;
-                    margin-left: 730px;
+                    margin-left: 0;
                     z-index: 6;
-                    margin-top: -410px;
+                    margin-top: -80px;
                 }
                 .Research_second {
                     margin-top: -60px;
