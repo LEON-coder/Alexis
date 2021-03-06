@@ -87,7 +87,7 @@
                  height: 1000px;
              }
              .design-things {
-                 font-size: 30pt;
+                 font-size: 24pt;
                  font-family: "LibreBaskerville";
                  line-height: 1.417;
                  color: #ffffff;
@@ -240,9 +240,9 @@
                  -ms-flex-align: center;
                  align-items: center;
                  width: 90%;
-                 height: 900px;
+                 height: 690px;
                  position: relative;
-                 margin-top: -10px;
+                 margin-top: 20px;
                  margin-left: auto;
                  margin-right: auto;
              }
@@ -258,7 +258,10 @@
                  display: -webkit-box;
                  display: -ms-flexbox;
                  display: flex;
+                 width: 40%;
+                 left: 0;
                  -webkit-box-pack: start;
+                 position: absolute;
                  -ms-flex-pack: start;
                  justify-content: flex-start;
                  padding-right: 0;
@@ -270,9 +273,10 @@
              .About_Us-picture {
                  padding-right: 0px;
                  padding-top: 0;
-                 margin-left: 20px;
+                 margin-left: 40px;
                  display: flex;
                  width: 253px;
+                 margin-top: 0px;
                  height: 43px;
              }
              .About_Us-Analytics {
@@ -281,7 +285,7 @@
                  display: flex;
                  width: auto;
                  margin-top: 30px;
-                 margin-left: 20px;
+                 margin-left: 50px;
                  padding-right: 0px;
                  font-size: 15px;
                  font-family: "Poppins";
@@ -311,7 +315,7 @@
                  margin-top: 0;
                  display: -webkit-box;
                  display: -ms-flexbox;
-                 bottom: 0;
+                 bottom: 10px;
                  position: absolute;
                  display: flex;
                  margin-left: 0px;
@@ -325,7 +329,7 @@
                  width: 100%;
                  height: 2170px;
                  display: flex;
-                 margin-top: 210px;
+                 margin-top: 100px;
                  flex-direction: column;
                  align-items: center;
              }
@@ -692,7 +696,7 @@
                  margin-top: -66px;
              }
              .We_understand {
-                 font-size: 21pt;
+                 font-size: 20pt;
                  display: -webkit-box;
                  display: -ms-flexbox;
                  display: flex;
@@ -701,6 +705,8 @@
                  justify-content: center;
                  padding-top: 20px;
                  text-align: center;
+                 padding-left: 15px;
+                 padding-right: 15px;
              }
              .portfolio--pictures {
                  display: -webkit-box;
@@ -4628,6 +4634,7 @@
                  width: 488px;
                  height: 331px;
                  z-index: 6;
+                 margin-left: 0;
                  margin-top: 90px;
              }
              .Project_first {
@@ -7245,7 +7252,7 @@
              }
              .item {
                  margin-right: 21px;
-                 margin-top: 20px;
+                 margin-top: 0;
              }
              .second--row {
                  display: -webkit-box;
@@ -7261,7 +7268,7 @@
              }
              .item-2 {
                  margin-right: 21px;
-                 margin-top: 20px;
+                 margin-top: 0;
              }
              .third--row {
                  display: -webkit-box;
@@ -7272,12 +7279,13 @@
                  justify-content: center;
                  margin-top: 0;
                  margin-bottom: 0;
+                 width: auto;
                  margin-right: 20px;
                  margin-left: 0;
              }
              .item-3 {
                  padding-right: 0;
-                 margin-top: 20px;
+                 margin-top: 0;
              }
              .block-7 {
                  width: 100%;
@@ -7537,7 +7545,7 @@
                  line-height: 4;
                  text-align: left;
                  z-index: 469;
-                 margin-left: 120px;
+                 margin-left: 110px;
              }
              .Monetization--social {
                  width: 90%;
@@ -7752,6 +7760,7 @@
              .Work-steps_block {
                  display: -webkit-box;
                  display: -ms-flexbox;
+                 height: auto;
                  display: flex;
                  -webkit-box-orient: vertical;
                  -webkit-box-direction: normal;
@@ -8141,7 +8150,7 @@
                  flex-direction: column;
                  margin-left: auto;
                  margin-right: auto;
-                 margin-top: 110px;
+                 margin-top: 160px;
                  height: 1680px;
              }
              .The_top_block {
@@ -8690,6 +8699,7 @@
                  display: -webkit-box;
                  display: -ms-flexbox;
                  display: flex;
+                 height: auto;
                  -webkit-box-orient: vertical;
                  -webkit-box-direction: normal;
                  -ms-flex-direction: column;
@@ -9447,9 +9457,10 @@
                  display: -webkit-box;
                  display: -ms-flexbox;
                  display: flex;
+                 margin-top: 0;
                  width: 100%;
                  background: #cccccc;
-                 height: 450px;
+                 height: 820px;
                  -webkit-box-orient: vertical;
                  -webkit-box-direction: normal;
                  -ms-flex-direction: column;
@@ -9467,7 +9478,7 @@
                  -webkit-box-pack: center;
                  -ms-flex-pack: center;
                  justify-content: center;
-                 margin-top: -410px;
+                 margin-top: -40px;
                  width: 12%;
                  margin-left: auto;
                  margin-right: auto;
