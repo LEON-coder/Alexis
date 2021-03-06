@@ -13905,7 +13905,7 @@
                  -ms-flex-item-align: center;
                  align-self: center;
              }
-             .Anna_SchrÃƒÂ¶der-bottom_line {
+             .Anna_SchrÃƒÆ’Ã‚Â¶der-bottom_line {
                  position: absolute;
                  bottom: 0;
              }
@@ -15126,11 +15126,12 @@
                  flex-direction: row;
                  -webkit-box-pack: center;
                  -ms-flex-pack: center;
-                 margin-left: auto;
-                 margin-right: auto;
+                 margin-left: 0;
+                 margin-right: 0;
              }
              .Business_Growth-block {
-                 margin-right: 100px;
+                 margin-right: 80px;
+                 margin-left: 0;
              }
              .Unlimited_Revisions_block {
                  margin-right: 30px;
@@ -15152,7 +15153,6 @@
                  flex-direction: row;
                  margin-left: 0;
                  margin-right: 0;
-                 width: 90%;
              }
              .Strict_Deadline_block {
                  margin-right: 30px;
@@ -15196,7 +15196,7 @@
                  z-index: 156;
              }
              .Unlimited_Revisions_block {
-                 margin-right: 100px;
+                 margin-right: 80px;
                  margin-left: 0;
              }
              .Unlimited_Revisions-picture {
@@ -15268,8 +15268,8 @@
                  z-index: 156;
              }
              .Smart_Experience_block {
-                 margin-right: 100px;
-                 margin-left: -40px;
+                 margin-right: 0px;
+                 margin-left: 0px;
              }
              .Smart_Experience-picture {
                  display: -webkit-box;
@@ -15304,7 +15304,7 @@
                  z-index: 156;
              }
              .Strict_Deadline_block {
-                 margin-right: 100px;
+                 margin-right: 0px;
                  margin-left: 0;
              }
              .Strict_Deadline-picture {
