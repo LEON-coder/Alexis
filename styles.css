@@ -13257,7 +13257,7 @@
                  -webkit-box-direction: normal;
                  -ms-flex-direction: row;
                  flex-direction: row;
-                 width: 50%;
+                 width: 70%;
                  margin-left: auto;
                  margin-right: auto;
                  margin-bottom: 150px;
@@ -13614,7 +13614,7 @@
              }
              .block-7 {
                  width: 100%;
-                 height: 1410px;
+                 height: 1300px;
                  background: #f7f7f7;
                  display: -webkit-box;
                  margin-top: 0;
@@ -13682,7 +13682,7 @@
                  margin-right: auto;
              }
              .inside_window {
-                 width: 66%;
+                 width: 90%;
                  margin-left: auto;
                  margin-right: auto;
              }
@@ -13860,7 +13860,7 @@
                  -ms-flex-item-align: center;
                  align-self: center;
              }
-             .Anna_SchrÃ¶der-bottom_line {
+             .Anna_SchrÃƒÂ¶der-bottom_line {
                  position: absolute;
                  bottom: 0;
              }
@@ -14144,7 +14144,7 @@
                  position: relative;
                  -ms-flex-align: start;
                  align-items: center;
-                 width: 50%;
+                 width: 70%;
                  height: auto;
                  margin-left: 0;
                  z-index: 6;
@@ -14671,7 +14671,7 @@
                  position: absolute;
                  width: 390px;
                  height: auto;
-                 margin-top: -14px;
+                 margin-top: 0;
              }
              .Ultimate_top_line img {
                  width: 100%;
@@ -14765,7 +14765,7 @@
              .Professional_top_line {
                  position: absolute;
                  width: 390px;
-                 margin-top: -14px;
+                 margin-top: 0;
                  height: auto;
              }
              .Professional_top_line img {
@@ -14853,7 +14853,7 @@
                  -ms-flex-direction: column;
                  flex-direction: column;
                  background: #3f4049;
-                 margin-top: 180px;
+                 margin-top: 0;
                  height: 874px;
              }
              .seven-block {
