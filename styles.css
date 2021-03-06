@@ -4660,6 +4660,7 @@
                  height: 331px;
                  z-index: 6;
                  margin-top: 90px;
+                 margin-left: 0;
              }
              .Project_first {
                  position: absolute;
@@ -7301,6 +7302,7 @@
                  -webkit-box-pack: center;
                  -ms-flex-pack: center;
                  justify-content: center;
+                 width: auto;
                  margin-top: 0;
                  margin-bottom: 0;
                  margin-right: 20px;
@@ -8796,7 +8798,7 @@
              }
              .Business_Growth-block {
                  margin-right: 0;
-                 margin-left: -40px;
+                 margin-left: 0;
              }
              .Unlimited_Revisions_block {
                  margin-right: 30px;
@@ -11195,7 +11197,7 @@
                  height: 331px;
                  margin-left: 0;
                  z-index: 6;
-                 margin-top: -170px;
+                 margin-top: -30px;
                  margin-right: auto;
              }
              .Wireframe_third {
@@ -11980,8 +11982,9 @@
                  -webkit-box-pack: center;
                  -ms-flex-pack: center;
                  justify-content: center;
-                 margin-left: auto;
-                 margin-right: auto;
+                 margin-left: 0;
+                 margin-right: 0;
+                 width: 80%;
              }
              .Business_Growth-block {
                  margin-right: 0;
@@ -12005,8 +12008,9 @@
                  -webkit-box-direction: normal;
                  -ms-flex-direction: row;
                  flex-direction: row;
-                 margin-left: auto;
-                 margin-right: auto;
+                 margin-left: 0;
+                 margin-right: 0;
+                 width: 80%;
              }
              .Strict_Deadline_block {
                  margin-right: 30px;
@@ -12014,6 +12018,7 @@
              }
              .Award_winning_Company_block {
                  margin-top: 0;
+                 margin-right: 0;
              }
              .Business_Growth-picture {
                  display: -webkit-box;
@@ -12118,9 +12123,9 @@
                  z-index: 156;
              }
              .Smart_Experience_block {
-                 margin-right: 50px;
+                 margin-right: 0;
                  margin-top: 0;
-                 margin-left: -30px;
+                 margin-left: 0;
              }
              .Smart_Experience-picture {
                  display: -webkit-box;
@@ -12156,6 +12161,7 @@
              }
              .Strict_Deadline_block {
                  margin-right: 50px;
+                 margin-left: 50px;
              }
              .Strict_Deadline-picture {
                  display: -webkit-box;
@@ -12915,13 +12921,13 @@
                  position: absolute;
                  height: auto;
                  width: 390px;
-                 margin-top: -14px;
+                 margin-top: 0;
              }
              .Professional_top_line {
                  position: absolute;
                  height: auto;
                  width: 390px;
-                 margin-top: -14px;
+                 margin-top: 0;
              }
              .block_lines {
                  margin-top: 75px;
