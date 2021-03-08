@@ -8917,6 +8917,7 @@
              .Why_Select_Us_block {
                  display: -webkit-box;
                  display: -ms-flexbox;
+                 height: auto;
                  display: flex;
                  -webkit-box-orient: vertical;
                  -webkit-box-direction: normal;
@@ -8964,6 +8965,7 @@
              .Why_Select_Us-adavantages {
                  display: -webkit-box;
                  display: -ms-flexbox;
+                 height: auto;
                  display: flex;
                  -webkit-box-pack: center;
                  -ms-flex-pack: center;
@@ -9249,6 +9251,7 @@
                  -ms-flex-pack: center;
                  justify-content: center;
                  margin-top: 100px;
+                 margin-bottom: 100px;
              }
              .Start_text {
                  font-size: 25px;
@@ -9299,7 +9302,7 @@
              }
              .Our_Blog_nine {
                  display: -webkit-box;
-                 margin-top: -370px;
+                 margin-top: -600px;
                  display: -ms-flexbox;
                  display: flex;
                  -webkit-box-pack: center;
@@ -9677,7 +9680,7 @@
                  display: flex;
                  width: 100%;
                  background: #cccccc;
-                 height: 450px;
+                 height: 880px;
                  -webkit-box-orient: vertical;
                  -webkit-box-direction: normal;
                  -ms-flex-direction: column;
@@ -9695,7 +9698,7 @@
                  -webkit-box-pack: center;
                  -ms-flex-pack: center;
                  justify-content: center;
-                 margin-top: -410px;
+                 margin-top: -80px;
                  width: 12%;
                  margin-left: auto;
                  margin-right: auto;
@@ -12168,7 +12171,7 @@
                  -webkit-box-direction: normal;
                  -ms-flex-direction: column;
                  flex-direction: column;
-                 width: 90%;
+                 width: 1090px;
              }
              .first_row_advantages {
                  display: -webkit-box;
@@ -12184,7 +12187,7 @@
                  justify-content: center;
                  margin-left: 0;
                  margin-right: 0;
-                 width: 80%;
+                 width: 100%;
              }
              .Business_Growth-block {
                  margin-right: 0;
@@ -12210,7 +12213,7 @@
                  flex-direction: row;
                  margin-left: 0;
                  margin-right: 0;
-                 width: 80%;
+                 width: 100%;
              }
              .Strict_Deadline_block {
                  margin-right: 30px;
@@ -12484,7 +12487,7 @@
                  -ms-flex-pack: center;
                  justify-content: center;
                  background: #f7f7f7;
-                 margin-top: 170px;
+                 margin-top: 0;
              }
              .Our_Blog_nine {
                  display: -webkit-box;
@@ -12606,7 +12609,7 @@
                  bottom: 0;
              }
              .Facebook_CNN_block {
-                 height: 255px;
+                 height: 270px;
              }
              .Our_Blog-right {
                  display: -webkit-box;
@@ -12909,6 +12912,7 @@
                  -ms-transform: matrix( 1.00070473061229, 0, 0, 1.00140908610505, 0, 0);
                  z-index: 59;
                  margin-top: -70px;
+                 width: auto;
              }
              .Get_in_Touch_we_understand {
                  font-size: 18px;
@@ -14109,7 +14113,7 @@
                  -ms-flex-item-align: center;
                  align-self: center;
              }
-             .Anna_SchrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¶der-bottom_line {
+             .Anna_SchrÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¶der-bottom_line {
                  position: absolute;
                  bottom: 0;
              }
@@ -15317,7 +15321,7 @@
                  -ms-flex-direction: column;
                  flex-direction: column;
                  align-items: center;
-                 width: 80%;
+                 width: 1200px;
              }
              .first_row_advantages {
                  display: -webkit-box;
@@ -15332,6 +15336,7 @@
                  -ms-flex-pack: center;
                  margin-left: 0;
                  margin-right: 0;
+                 width: 100%;
              }
              .Business_Growth-block {
                  margin-right: 80px;
@@ -15629,7 +15634,7 @@
                  justify-content: center;
                  background: #f7f7f7;
                  width: 100%;
-                 margin-top: 170px;
+                 margin-top: 0;
              }
              .Our_Blog_nine {
                  display: -webkit-box;
@@ -16018,7 +16023,7 @@
                  -webkit-box-pack: center;
                  -ms-flex-pack: center;
                  justify-content: center;
-                 margin-top: -50px;
+                 margin-top: -90px;
                  width: 12%;
                  margin-left: auto;
                  margin-right: auto;
@@ -16172,6 +16177,7 @@
                  justify-content: center;
                  z-index: 5;
                  margin-top: 0;
+                 width: 100%;
              }
              .block_footer {
                  display: -webkit-box;
